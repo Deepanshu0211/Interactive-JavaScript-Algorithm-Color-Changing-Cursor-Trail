@@ -1,5 +1,4 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+link:- https://deepanshu0211.github.io/Interactive-JavaScript-Algorithm-Color-Changing-Cursor-Trail/
 
 🖱️ How it Works:
 
@@ -9,10 +8,13 @@ Color-Changing Overlap: When the cursor-trailing box overlaps with another box, 
 🌈 Key Features:
 
 -Smooth Animation: Enjoy a smooth and visually pleasing animation as the cursor-trailing box follows your every move.
+
 -Dynamic Color Transformation: Experience the magic of color-changing when the boxes overlap, creating a vibrant and interactive display.
 
 💻 How to Experience the Magic:
 
 -Hover your mouse cursor over the screen.
+
 -Watch as the trailing box gracefully follows your cursor.
+
 -Bring the trailing box close to another box and witness the magical color change!
